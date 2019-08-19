@@ -1,0 +1,76 @@
+body{
+    background-color:#bbc8d8;
+}
+div#body{
+    font-family: 'Playfair Display', serif;
+    font-family: 'Lora', serif;    
+    background-color: #bbc8d8;
+    color:#bbc8d8;
+    margin:2%;
+    width: 68%;
+    float:right;
+}
+div.subti{
+    margin-bottom: 15px;
+    margin-top:15px;
+    height: 25%;
+    padding:20px 35px 20px 35px;
+    background-color: #313943
+}
+div#menu{
+    margin:2%;
+    border:1px solid #313943;
+    width:20%;
+    height:100%;
+    padding-left:40px;
+    padding-top:40px;
+    padding-right:20px;
+}
+.parte2{
+    background-color: #313943;
+    font-size: 20px;
+    color:#fff;
+    padding: 10px 20px 10px 20px;
+}
+.parte2 a{
+    color:#fff;
+    text-decoration: none;
+}
+h1{
+color:#fff;
+font-size: 50px;
+margin-bottom: 10px;
+padding: 10 25 30 25px;
+height: 70px;
+}
+h2{
+    color:#fff;
+    font-size: 30px;
+    border-bottom: 3px solid#fff;
+    padding-bottom: 10px;
+}
+h3{
+    color:#fff;
+    font-size: 20px;
+}
+.lista a{
+    color:#1fcfcb;
+}
+p#nombre{
+    color:#fff;
+    font-size:45px;
+    font-weight: bold;
+}
+.lista{
+    font-size:17px;
+    border-bottom:1px solid #fff;
+    padding-bottom: 2px;
+}
+.titulo-lista{
+    color:#fff;
+    font-weight: bold;
+}
+li.imagenes{
+    float:left;
+    background-color: #313943
+}
